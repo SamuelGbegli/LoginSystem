@@ -1,0 +1,15 @@
+C:\Users\samue\source\repos\Login system (CSharp)\bin\Release\net6.0\Login system (CSharp).exe
+C:\Users\samue\source\repos\Login system (CSharp)\bin\Release\net6.0\Login system (CSharp).deps.json
+C:\Users\samue\source\repos\Login system (CSharp)\bin\Release\net6.0\Login system (CSharp).runtimeconfig.json
+C:\Users\samue\source\repos\Login system (CSharp)\bin\Release\net6.0\Login system (CSharp).dll
+C:\Users\samue\source\repos\Login system (CSharp)\bin\Release\net6.0\Login system (CSharp).pdb
+C:\Users\samue\source\repos\Login system (CSharp)\obj\Release\net6.0\Login system (CSharp).csproj.AssemblyReference.cache
+C:\Users\samue\source\repos\Login system (CSharp)\obj\Release\net6.0\Login system (CSharp).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samue\source\repos\Login system (CSharp)\obj\Release\net6.0\Login system (CSharp).AssemblyInfoInputs.cache
+C:\Users\samue\source\repos\Login system (CSharp)\obj\Release\net6.0\Login system (CSharp).AssemblyInfo.cs
+C:\Users\samue\source\repos\Login system (CSharp)\obj\Release\net6.0\Login system (CSharp).csproj.CoreCompileInputs.cache
+C:\Users\samue\source\repos\Login system (CSharp)\obj\Release\net6.0\Login system (CSharp).dll
+C:\Users\samue\source\repos\Login system (CSharp)\obj\Release\net6.0\refint\Login system (CSharp).dll
+C:\Users\samue\source\repos\Login system (CSharp)\obj\Release\net6.0\Login system (CSharp).pdb
+C:\Users\samue\source\repos\Login system (CSharp)\obj\Release\net6.0\Login system (CSharp).genruntimeconfig.cache
+C:\Users\samue\source\repos\Login system (CSharp)\obj\Release\net6.0\ref\Login system (CSharp).dll
